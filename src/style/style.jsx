@@ -77,7 +77,7 @@ const BoardWriteContentTextArea = styled.textarea`
   font-size: 16px;
   border-radius: 5px;
   resize: none;
-`
+`;
 
 export {
   Wrapper,
